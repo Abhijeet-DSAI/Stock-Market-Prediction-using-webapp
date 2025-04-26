@@ -43,11 +43,6 @@ The dataset consists of historical stock data fetched from Yahoo Finance for var
 ## Model Training and Prediction
 We've used a Linear Regression model for each company. The model is trained on historical data and can predict stock prices for a given date range.
 
-## Web App
-We've developed a Streamlit web app where users can:
-- Select a company ticker.
-- Choose a date range.
-- View the predicted stock prices for the selected data range.
 - 
 ## 🛠️ Project Structure
 
@@ -125,20 +120,31 @@ pip install -r requirements.txt
 ---
 
 ## 📸 Web app 
+We've developed a Streamlit web app where users can:
+- Select a company ticker.
+- Choose a date range.
+- View the predicted stock prices for the selected data range.
 
+## Web app link
+https://stock-market-prediction-using-webapp-fxokuwswrprazrufmczr34.streamlit.app/
+  
 **home page**
+
 ![image](https://github.com/user-attachments/assets/f9028486-74e4-4d27-aa38-2d8edfae21b0)
 
 ---
 **🕯️ Candlestick chart tab**
+
 ![image](https://github.com/user-attachments/assets/dff9fd5a-0c4d-4c31-8045-a2c77bd72bc8)
 
 ---
 **📈 Predicted Stock Prices Over Time tab**
+
 ![image](https://github.com/user-attachments/assets/6efe1fc9-887b-4c56-9e23-b7a869d9eccd)
 
 ---
 **📊 Feature Importance**
+
 ![image](https://github.com/user-attachments/assets/c52950af-4a36-43fd-9c45-2ab23f4835f6)
 
 ---
@@ -146,6 +152,5 @@ pip install -r requirements.txt
 
 # ✨ Special Thanks
 
-Thanks to [Your Name] for creating this amazing project! 🚀  
-*(Edit your name here if you want.)*
+
 
