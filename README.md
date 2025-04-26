@@ -143,14 +143,12 @@ https://stock-market-prediction-using-webapp-fxokuwswrprazrufmczr34.streamlit.ap
 ![image](https://github.com/user-attachments/assets/6efe1fc9-887b-4c56-9e23-b7a869d9eccd)
 
 ---
-**📊 Feature Importance**
+## Author
 
-![image](https://github.com/user-attachments/assets/c52950af-4a36-43fd-9c45-2ab23f4835f6)
+- [Abhijeet Prakash](https://www.linkedin.com/in/abhijeet-prakash-04aa65237/)
+  
 
----
-
-
-# ✨ Special Thanks
+# ✨ Special Thanks !
 
 
 
